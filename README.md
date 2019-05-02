@@ -21,10 +21,12 @@ And last have mongo install in your computer.
 Run the main.py file, enter the search you want to make once finish, enter N (You con only add 10 search)
 
 Example:
+```
   Ingresa busqueda (N): papitas
   Ingresa busqueda (N): pepsi
   Ingresa busqueda (N): cocacola
   Ingresa busqueda (N): N
+```
 
 Wait a moment and the graphs will be display
 
